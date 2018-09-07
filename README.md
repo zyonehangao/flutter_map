@@ -6,4 +6,4 @@ A new Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-![image](https://github.com/zyonrhangao/flutter_map/blob/master/views/Screenshot_2018-09-06-11-46-13-49.png) 
+![image](https://s2.aconvert.com/convert/p3r68-cdx67/tb992-lzboj.gif) 
